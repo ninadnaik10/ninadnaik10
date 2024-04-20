@@ -19,9 +19,9 @@
 | Ninad's Blog     | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) <br> ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)          |  [blog.ninadnaik.xyz](https://blog.ninadnaik.xyz/)         | [link](https://github.com/ninadnaik10/blog)     |
 | Portfolio | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | [ninadnaik.xyz](https://ninadnaik.xyz) | [link](https://github.com/ninadnaik10/ninadnaik10.github.io) |
 | Weather App | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | | [link](https://github.com/ninadnaik10/weather-app) |
-| Quick List |
-| Two Numbers |
-| Lichens | 
+| Quick List | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) | [APK](https://github.com/ninadnaik10/QuickList/releases) | [link](https://github.com/ninadnaik10/QuickList) |
+| Two Numbers | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | [APK](https://github.com/ninadnaik10/twonumbers/releases) | [link](https://github.com/ninadnaik10/twonumbers)
+| Lichens | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | [Website](https://ninadnaik10.github.io/lichens/) | [link](https://ninadnaik10.github.io/lichens/)
 
 ### Contributions
 
