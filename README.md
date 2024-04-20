@@ -25,7 +25,7 @@
 
 ### Contributions
 
-| Name             | Tech Stack | Live Demo | Repo |
+| Name             | Tech Stack | Deployment | Repo |
 | ---------------- | ---------- | --------- | ---- |
 | TSEC App   | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)           |   [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.madclubtsec.tsec_application&pcampaignid=web_share)        |  [link](https://github.com/TSEC-MAD-Club/Mobile-App)    |
 | GeekSpace Website | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) | [geekspaceclub.xyz](https://geekspaceclub.xyz/) | [link](https://github.com/geekspaceclub/geekspaceclub.github.io)
@@ -38,4 +38,4 @@
 | Resume Workflow | ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Workflow for building my Resume hosted at [resume.ninadnaik.xyz](https://resume.ninadnaik.xyz) | [link](https://github.com/ninadnaik10/resume)
 | Dotfiles | ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | Collection of my dotfiles | [link](https://github.com/ninadnaik10/dotfiles) |
 | Scripts | ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | Bash Scripts | [link](https://github.com/ninadnaik10/scripts) |
-| GCV NCV Calculator | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | Gross Calorific Value (GCV) and Net Calorific Value (NCV) calculator | [text](https://github.com/ninadnaik10/gcv_ncv_calculator)
+| GCV NCV Calculator | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | Gross Calorific Value (GCV) and Net Calorific Value (NCV) calculator | [link](https://github.com/ninadnaik10/gcv_ncv_calculator)
