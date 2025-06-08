@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Backend Development.
 - 💻 I'm working as a Backend Developer Intern at [Commotion](https://gocommotion.com).
 - 🐧 I'm enthusiastic about Open Source and Linux.
+- 📄 Resume: [resume.ninadnaik.me](https://resume.ninadnaik.me)
+- 📝 Tech Blog: [tech.ninadnaik.me](https://tech.ninadnaik.me)
 - 📫 How to reach me: Find my inbox at <a href="mailto:ninadnaik07&commat;gmail.com" target="_blank" rel="noopener noreferrer">ninadnaik07&commat;gmail.com</a>
 
 ### Projects
