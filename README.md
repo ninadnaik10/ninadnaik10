@@ -2,7 +2,7 @@
 
 - 👨‍💻 I love Technology and Astronomy.
 - 🌱 I’m currently learning Backend Development.
-- 💻 I'm working as a Backend Developer Intern at [Commotion](https://gocommotion.com).
+- 💻 I'm working as a Backend Developer at [Commotion](https://gocommotion.com).
 - 🐧 I'm enthusiastic about Open Source and Linux.
 - 📄 Resume: [resume.ninadnaik.me](https://resume.ninadnaik.me)
 - 📝 Tech Blog: [tech.ninadnaik.me](https://tech.ninadnaik.me)
