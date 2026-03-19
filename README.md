@@ -1,7 +1,8 @@
 ## Hi there 👋, I am Ninad Naik
 
 - 👨‍💻 I love Technology and Astronomy.
-- 🌱 I’m currently learning Backend Development.
+- 🌱 I’m currently learning Backend Development and System Design.
+- 🐧 I'm a mentee in Linux Foundation (LFX) [Linux Kernel Mentorship Program Spring 2026](https://mentorship.lfx.linuxfoundation.org/project/53378ec5-48d7-4c49-a01f-8cbd3948db3d).
 - 💻 I'm working as a Backend Developer at [Commotion](https://gocommotion.com).
 - 🐧 I'm enthusiastic about Open Source and Linux.
 - 📄 Resume: [resume.ninadnaik.me](https://resume.ninadnaik.me)
