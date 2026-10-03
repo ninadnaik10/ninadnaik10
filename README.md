@@ -1,51 +1,144 @@
+```text
+   _  ___              __  _  __     _ __  
+  / |/ (_)__  ___ ____/ / / |/ /__ _(_) /__
+ /    / / _ \/ _ `/ _  / /    / _ `/ /  '_/
+/_/|_/_/_//_/\_,_/\_,_/ /_/|_/\_,_/_/_/\_\ 
+                                           
+```
+
 ## Hi there 👋, I am Ninad Naik
 
-- 👨‍💻 I love Technology and Astronomy.
-- 🌱 I’m currently learning Backend Development and System Design.
-- 🐧 I'm a mentee in Linux Foundation (LFX) [Linux Kernel Mentorship Program Spring 2026](https://mentorship.lfx.linuxfoundation.org/project/53378ec5-48d7-4c49-a01f-8cbd3948db3d).
-- 💻 I'm working as a Backend Developer at [Commotion](https://gocommotion.com).
-- 🐧 I'm enthusiastic about Open Source and Linux.
+About me:
+
+- 💼 Backend Developer at [Commotion](https://gocommotion.com), working on integrations, MCP and A2A agent infrastructure
+- 🐧 Mentee, [LFX Linux Kernel Mentorship Program, Spring 2026](https://mentorship.lfx.linuxfoundation.org/project/53378ec5-48d7-4c49-a01f-8cbd3948db3d), with 11 patches merged upstream
+- 📄 Co-author, *Evaluating Human Speech Confidence with Deep Learning Techniques*, ICCIS 2025 (Springer LNNS)
+- 🔭 Interested in backend and distributed systems, AI agent infrastructure, Linux and open source
+- 🌌 Outside code: astronomy
 - 📄 Resume: [resume.ninadnaik.me](https://resume.ninadnaik.me)
 - 📝 Tech Blog: [tech.ninadnaik.me](https://tech.ninadnaik.me)
-- 📫 How to reach me: Find my inbox at <a href="mailto:ninadnaik07&commat;gmail.com" target="_blank" rel="noopener noreferrer">ninadnaik07&commat;gmail.com</a>
+- 📫 Reach me: <a href="mailto:ninadnaik07&commat;gmail.com" target="_blank" rel="noopener noreferrer">ninadnaik07&commat;gmail.com</a> · [LinkedIn](https://linkedin.com/in/ninadn) · [Portfolio](https://ninadnaik.me)
 
-### Projects
+### ✨ Highlights
 
-| Name                          | Tech Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Deployment                                                                                                                                                                                                                            | Repo                                                                                                              |
-| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Shortomega                    | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)                                    | <a href="https://shortomega.ninadnaik.me/" target="_blank" rel="noopener noreferrer">Website</a>                                                                                                                                     | <a href="https://github.com/ninadnaik10/shortomega" target="_blank" rel="noopener noreferrer">link</a>            |
-| Railway Booking System API                    | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) <br> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)                                    | -                                                                                                                                    | <a href="https://github.com/ninadnaik10/railway-booking-api" target="_blank" rel="noopener noreferrer">link</a>            |
-| Vision Guard                  | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcnui-black.svg?style=for-the-badge&logo=shadcnui&logoColor=white)                                                                                                                                                                                                                                                             | <a href="https://vision-guard.vercel.app/" target="_blank" rel="noopener noreferrer">Website</a>                                                                                                                                      | <a href="https://github.com/ninadnaik10/vision-guard" target="_blank" rel="noopener noreferrer">link</a>          |
-| CodeIT                        | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)                                    | <a href="https://codeitonline.xyz/" target="_blank" rel="noopener noreferrer">Website</a>                                                                                                                                             | <a href="https://github.com/ninadnaik10/codeit" target="_blank" rel="noopener noreferrer">link</a>                |
-| FireSense                     | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) <br> ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)                                            | -                                                                                                                                                                                                                                     | <a href="https://github.com/ninadnaik10/FireSense" target="_blank" rel="noopener noreferrer">link</a>             |
-| News Forecast                 | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                  | <a href="https://github.com/ninadnaik10/News-Forecast/releases" target="_blank" rel="noopener noreferrer">APK</a>                                                                                                                     | <a href="https://github.com/ninadnaik10/News-Forecast" target="_blank" rel="noopener noreferrer">link</a>         |
-| Expense Splitter              | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                  | <a href="https://github.com/ninadnaik10/Expense-Splitter/releases" target="_blank" rel="noopener noreferrer">APK</a>, <a href="https://ninadnaik10.github.io/expense-splitter-web/" target="_blank" rel="noopener noreferrer">Web</a> | <a href="https://github.com/ninadnaik10/Expense-Splitter" target="_blank" rel="noopener noreferrer">link</a>      |
-| SpeakSure                     | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)                                                                                                                      | -                                                                                                                                                                                                                                     | <a href="https://github.com/ninadnaik10/SpeakSure" target="_blank" rel="noopener noreferrer">link</a>             |
-| Node Socket Chat App          | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)                                         | -                                                                                                                                                                                                                                     | <a href="https://github.com/ninadnaik10/node-socket" target="_blank" rel="noopener noreferrer">link</a>           |
-| Node.js and Firebase CRUD App | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)                                                                                                                                                                                                                                                                       | -                                                                                                                                                                                                                                     | <a href="https://github.com/ninadnaik10/nodejs-firebase" target="_blank" rel="noopener noreferrer">link</a>       |
-| PassVault                     | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)                                                                                                                                                                                                                                                           | <a href="https://github.com/ninadnaik10/PassVault" target="_blank" rel="noopener noreferrer">JAR release</a>                                                                                                                          | <a href="https://github.com/ninadnaik10/PassVault" target="_blank" rel="noopener noreferrer">link</a>             |
-| Ninad's Blog                  | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) <br> ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) | <a href="https://blog.ninadnaik.me/" target="_blank" rel="noopener noreferrer">blog.ninadnaik.me</a>                                                                                                                                | <a href="https://github.com/ninadnaik10/blog" target="_blank" rel="noopener noreferrer">link</a>                  |
-| Portfolio                     | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)                                                                                                                                                                                                                                                                 | <a href="https://ninadnaik.me" target="_blank" rel="noopener noreferrer">ninadnaik.me</a>                                                                                                                                           | <a href="https://github.com/ninadnaik10/ninadnaik10.github.io" target="_blank" rel="noopener noreferrer">link</a> |
-| Weather App                   | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)                                                                                                                                                                                                                                                           | -                                                                                                                                                                                                                                     | <a href="https://github.com/ninadnaik10/weather-app" target="_blank" rel="noopener noreferrer">link</a>           |
-| Quick List                    | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)                                                                                                                                                                                                                                                               | <a href="https://github.com/ninadnaik10/QuickList/releases" target="_blank" rel="noopener noreferrer">APK</a>                                                                                                                         | <a href="https://github.com/ninadnaik10/QuickList" target="_blank" rel="noopener noreferrer">link</a>             |
-| Two Numbers                   | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)                                                                                                                                                                                                                                                               | <a href="https://github.com/ninadnaik10/twonumbers/releases" target="_blank" rel="noopener noreferrer">APK</a>                                                                                                                        | <a href="https://github.com/ninadnaik10/twonumbers" target="_blank" rel="noopener noreferrer">link</a>            |
-| Lichens                       | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)                                                                                                                                                                                                                                                                 | <a href="https://ninadnaik10.github.io/lichens/" target="_blank" rel="noopener noreferrer">Website</a>                                                                                                                                | <a href="https://ninadnaik10.github.io/lichens/" target="_blank" rel="noopener noreferrer">link</a>               |
+- Built and shipped 100+ enterprise integration connectors exposing 3,200+ agent-callable actions and 325 webhook triggers for Voice AI agents
+- Worked on MCP gateway performance and correctness: Redis Pub/Sub for OAuth over SSE across autoscaled pods, connection pooling, query indexing and load testing
+- Implemented enterprise OAuth 2.0 flows, including authorization code, client credentials and SAML bearer assertion
+- 11 patches merged into the mainline Linux kernel: Devicetree binding conversions to DT schema, driver error-handling cleanups and documentation fixes
 
-### Contributions
+### ⚙️ Tech Stack
 
-| Name              | Tech Stack                                                                                                                                                                                                                                                                                                                                                                | Deployment                                                                                                                                                                                                                                                                       | Repo                                                                                                                  |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| TSEC App          | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)                                                                                                                                                        | <a href="https://play.google.com/store/apps/details?id=com.madclubtsec.tsec_application&pcampaignid=web_share" target="_blank" rel="noopener noreferrer">![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)</a> | <a href="https://github.com/TSEC-MAD-Club/Mobile-App" target="_blank" rel="noopener noreferrer">link</a>              |
-| GeekSpace Website | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Hexo](https://img.shields.io/badge/hexo-%230e83cd.svg?style=for-the-badge&logo=hexo&logoColor=white) | <a href="https://geekspaceclub.xyz/" target="_blank" rel="noopener noreferrer">geekspaceclub.xyz</a>                                                                                                                                                                             | <a href="https://github.com/geekspaceclub/geekspaceclub.github.io" target="_blank" rel="noopener noreferrer">link</a> |
+<table>
+  <tr>
+    <td><b>Languages:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,go,java,js,ts" alt="c, c++, python, go, java, javascript, typescript" height="40"/>
+    </td>
+  </tr>
 
-### Utilities
+  <tr>
+    <td><b>Backend:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,fastapi,flask,graphql,grpc,kafka,mcp" alt="node.js, nestjs, fastapi, flask, graphql, grpc, kafka, model context protocol" height="40"/>
+    </td>
+  </tr>
 
-| Name               | Tech Stack                                                                                                                 | Description                                                                                                                                         | Repo                                                                                                           |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Resume Workflow    | ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)                  | Workflow for building my Resume hosted at <a href="https://resume.ninadnaik.me" target="_blank" rel="noopener noreferrer">resume.ninadnaik.me</a> | <a href="https://github.com/ninadnaik10/resume" target="_blank" rel="noopener noreferrer">link</a>             |
-| Dotfiles           | ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | Collection of my dotfiles                                                                                                                           | <a href="https://github.com/ninadnaik10/dotfiles" target="_blank" rel="noopener noreferrer">link</a>           |
-| Scripts            | ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | Bash Scripts                                                                                                                                        | <a href="https://github.com/ninadnaik10/scripts" target="_blank" rel="noopener noreferrer">link</a>            |
-| GCV NCV Calculator | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)                              | Gross Calorific Value (GCV) and Net Calorific Value (NCV) calculator                                                                                | <a href="https://github.com/ninadnaik10/gcv_ncv_calculator" target="_blank" rel="noopener noreferrer">link</a> |
+  <tr>
+    <td><b>Databases:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,redis,clickhouse" alt="postgresql, mysql, mongodb, redis, clickhouse" height="40"/>
+    </td>
+  </tr>
 
-<!--
-**ninadnaik10/ninadnaik10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+  <tr>
+    <td><b>Frontend:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,react,vite,nextjs" alt="html, css, tailwind css, react, vite, next.js" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>AI / ML:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,huggingface" alt="pytorch, tensorflow, scikit-learn, hugging face" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Infra / DevOps:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm,nginx,aws,gitlab,prometheus,grafana" alt="docker, kubernetes, helm, nginx, aws, gitlab ci, prometheus, grafana" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Systems / Tools:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,qemu,postman" alt="linux, bash, git, qemu, postman" height="40"/>
+    </td>
+  </tr>
+</table>
+
+### 🚀 Featured Projects
+
+- 🔥 [**Redspot**](https://github.com/ninadnaik10/redspot): Event-driven website analytics. A JS tracker sends click events to FastAPI, which publishes them to Kafka for a consumer to persist in ClickHouse, with click heatmaps rendered in React.
+- 🔗 [**Shortomega**](https://github.com/ninadnaik10/shortomega) ([live](https://shortomega.ninadnaik.me/)): URL shortener using Redis as the primary data store, with HyperLogLog unique-visitor analytics, Lua scripts, rate limiting and JWT auth. Built with Next.js, NestJS and Docker.
+- 🎙️ [**SpeakSure**](https://github.com/ninadnaik10/SpeakSure): AI behavioral-interview analysis. Wav2Vec2 embeddings with an MLP score speech confidence, AssemblyAI transcribes, and Gemini generates hiring insights. Research behind the ICCIS 2025 paper.
+
+<details>
+<summary><b>🐧 Linux kernel patches (11, merged upstream)</b></summary>
+<br>
+
+- [ALSA: docs: fix dead link to Intel HD-audio spec](https://github.com/torvalds/linux/commit/ff722d025853a33a15b080459e4c52be28d44b6e)
+- [Documentation: amd-pstate: fix dead links in the reference section](https://github.com/torvalds/linux/commit/a362ae6e7e85bca4c870c37085d7793c4beec360)
+- [Documentation: fix spelling mistake "stucture" -> "structure"](https://github.com/torvalds/linux/commit/1cf4830de25495c071a78f307fd66e83ddd586df)
+- [Documentation: hwmon: fix link to ideapad-laptop.c file](https://github.com/torvalds/linux/commit/5ed26ffe57ffca054b7a141ff0c1a07bf3a80f6c)
+- [Documentation: kvm: update links in the references section of AMD Memory Encryption](https://github.com/torvalds/linux/commit/80f4a7b8ce7513c203562191426e4d4cc635b095)
+- [regulator: dt-bindings: mt6311: Convert to DT schema](https://github.com/torvalds/linux/commit/fd964ee0ac9ef14fdc03e30d0ac73459cd60e469)
+- [spi: dt-bindings: octeon: Convert to DT schema](https://github.com/torvalds/linux/commit/cb8c374a632b8bfeb8aa2a4977eeeb293f3566a5)
+- [regulator: mcp16502: Convert to dev_err_probe() in mcp16502_probe()](https://github.com/torvalds/linux/commit/25706f1ab9fba4b10169f557bf5fcaf41db0bc65)
+- [dt-bindings: leds: bcm6358: Convert to DT schema](https://github.com/torvalds/linux/commit/627666f7c9cd89e7c4023ba790a44610ccfb9471)
+- [leds: bcm63138: Use %pe to print pinctrl error instead of %ld](https://github.com/torvalds/linux/commit/b6e08e0ad4cfafab2c2070456e7eeba17608a35d)
+- [dt-bindings: leds: lacie,ns2-leds: Convert to DT schema](https://github.com/torvalds/linux/commit/e36f8825616b73a09cd2308f2644aa12d7fb6db0)
+
+</details>
+
+<details>
+<summary><b>🧩 Other contributions</b></summary>
+<br>
+
+- [**CircuitVerse**](https://github.com/CircuitVerse/CircuitVerse): [fix: deadline label casing in en locales](https://github.com/CircuitVerse/CircuitVerse/pull/7106)
+- [**n8n Docs**](https://github.com/n8n-io/n8n-docs):
+  - [Update source code file links in white-labelling doc to match latest file path](https://github.com/n8n-io/n8n-docs/pull/3395)
+  - [Modify expression in tutorial-first-workflow to match the reference image](https://github.com/n8n-io/n8n-docs/pull/3374)
+- [**TSEC App**](https://github.com/TSEC-MAD-Club/Mobile-App) ([Play Store](https://play.google.com/store/apps/details?id=com.madclubtsec.tsec_application&pcampaignid=web_share)): College app built with Flutter and Firebase
+- [**GeekSpace Website**](https://github.com/geekspaceclub/geekspaceclub.github.io) ([live](https://geekspaceclub.xyz/)): Club website built with Hexo and GitHub Actions
+
+</details>
+
+<details>
+<summary><b>📦 More projects</b></summary>
+<br>
+
+| Name | Tech | Links |
+| --- | --- | --- |
+| Vision Guard | Next.js, shadcn/ui | [Website](https://vision-guard.vercel.app/) · [Repo](https://github.com/ninadnaik10/vision-guard) |
+| CodeIT | React, Firebase, AWS, Docker | [Website](https://codeitonline.xyz/) · [Repo](https://github.com/ninadnaik10/codeit) |
+| FireSense | Python, Flask, Flutter, Firebase | [Repo](https://github.com/ninadnaik10/FireSense) |
+| News Forecast | Flutter | [APK](https://github.com/ninadnaik10/News-Forecast/releases) · [Repo](https://github.com/ninadnaik10/News-Forecast) |
+| Expense Splitter | Flutter | [APK](https://github.com/ninadnaik10/Expense-Splitter/releases) · [Web](https://ninadnaik10.github.io/expense-splitter-web/) · [Repo](https://github.com/ninadnaik10/Expense-Splitter) |
+| Node Socket Chat App | Node.js, Socket.io | [Repo](https://github.com/ninadnaik10/node-socket) |
+| Node.js and Firebase CRUD App | Node.js, Firebase | [Repo](https://github.com/ninadnaik10/nodejs-firebase) |
+| PassVault | Java, SQLite | [Repo](https://github.com/ninadnaik10/PassVault) |
+| Ninad's Blog | Next.js, Markdown, GitHub Actions | [Website](https://blog.ninadnaik.me/) · [Repo](https://github.com/ninadnaik10/blog) |
+| Portfolio | HTML, CSS | [ninadnaik.me](https://ninadnaik.me) · [Repo](https://github.com/ninadnaik10/ninadnaik10.github.io) |
+| Weather App | Flutter, Dart | [Repo](https://github.com/ninadnaik10/weather-app) |
+| Quick List | Flutter, Firebase | [APK](https://github.com/ninadnaik10/QuickList/releases) · [Repo](https://github.com/ninadnaik10/QuickList) |
+| Two Numbers | Android, Java | [APK](https://github.com/ninadnaik10/twonumbers/releases) · [Repo](https://github.com/ninadnaik10/twonumbers) |
+| Lichens | HTML, CSS | [Website](https://ninadnaik10.github.io/lichens/) |
+| Resume Workflow | LaTeX | [resume.ninadnaik.me](https://resume.ninadnaik.me) · [Repo](https://github.com/ninadnaik10/resume) |
+| Dotfiles | Shell | [Repo](https://github.com/ninadnaik10/dotfiles) |
+| Scripts | Shell | [Repo](https://github.com/ninadnaik10/scripts) |
+| GCV NCV Calculator | C | [Repo](https://github.com/ninadnaik10/gcv_ncv_calculator) |
+
+</details>
