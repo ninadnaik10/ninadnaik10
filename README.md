@@ -74,7 +74,7 @@ About me:
   <tr>
     <td><b>Systems / Tools:</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,qemu,postman" alt="linux, bash, git, qemu, postman" height="40"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,postman" alt="linux, bash, git, postman" height="40"/>
     </td>
   </tr>
 </table>
