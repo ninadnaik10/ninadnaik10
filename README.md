@@ -60,7 +60,7 @@ About me:
   <tr>
     <td><b>AI / ML:</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,huggingface" alt="pytorch, tensorflow, scikit-learn, hugging face" height="40"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,pytorch,tensorflow,sklearn,huggingface" alt="langchain, pytorch, tensorflow, scikit-learn, hugging face" height="40"/>
     </td>
   </tr>
 
