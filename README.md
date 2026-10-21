@@ -83,7 +83,7 @@ About me:
 
 - 🔥 [**Redspot**](https://github.com/ninadnaik10/redspot): Event-driven website analytics. A JS tracker sends click events to FastAPI, which publishes them to Kafka for a consumer to persist in ClickHouse, with click heatmaps rendered in React.
 - 🔗 [**Shortomega**](https://github.com/ninadnaik10/shortomega) ([live](https://shortomega.ninadnaik.me/)): URL shortener using Redis as the primary data store, with HyperLogLog unique-visitor analytics, Lua scripts, rate limiting and JWT auth. Built with Next.js, NestJS and Docker.
-- 🎙️ [**SpeakSure**](https://github.com/ninadnaik10/SpeakSure): AI behavioral-interview analysis. Wav2Vec2 embeddings with an MLP score speech confidence, AssemblyAI transcribes, and Gemini generates hiring insights. Research behind the ICCIS 2025 paper.
+- 🎙️ [**SpeakSure**](https://github.com/ninadnaik10/SpeakSure) ([live](https://speaksure.ninadnaik.me/)): AI behavioral-interview analysis. Wav2Vec2 embeddings with an MLP score speech confidence, AssemblyAI transcribes, and Gemini generates hiring insights. Research behind the ICCIS 2025 paper.
 
 <details>
 <summary><b>🐧 Linux kernel patches (11, merged upstream)</b></summary>
